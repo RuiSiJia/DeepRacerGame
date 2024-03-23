@@ -13,6 +13,10 @@ deepracer game records。
 
 ## 参考
 
+DeepRacer官方github仓库链接：https://github.com/search?q=deepracer&type=repositories
+
+本地环境搭建链接：https://github.com/aws-deepracer-community/deepracer-for-cloud
+
 某位大神的链接：https://github.com/scottpletcher/deepracer/blob/master/iterations/v4-SelfMotivator.md
 
 最优路线：https://github.com/cdthompson/deepracer-k1999-race-lines
